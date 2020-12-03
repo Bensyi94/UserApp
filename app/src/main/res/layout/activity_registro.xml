@@ -54,8 +54,9 @@
         android:hint="@string/strBirthday" />
 
     <ImageButton
+        android:id="@+id/ibAdd"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:src="@drawable/is_add"/>
+        android:src="@drawable/is_add" />
 </LinearLayout>

@@ -4,9 +4,6 @@
     <string name="strPassphrase">Contraseña</string>
     <string name="strLogin">Ingresar</string>
     <string name="strNewAcc">Crear Cuenta</string>
-
-    <string name="strWelcome">BIENVENID@</string>
-
     <string name="strName">Nombre</string>
     <string name="strEmail">Correo</string>
     <string name="strPhone">Telefono</string>
